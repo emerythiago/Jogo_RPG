@@ -1,0 +1,16 @@
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\bin\Debug\net5.0\Dungeon_RPG.exe
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\bin\Debug\net5.0\Dungeon_RPG.deps.json
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\bin\Debug\net5.0\Dungeon_RPG.runtimeconfig.json
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\bin\Debug\net5.0\Dungeon_RPG.runtimeconfig.dev.json
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\bin\Debug\net5.0\Dungeon_RPG.dll
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\bin\Debug\net5.0\ref\Dungeon_RPG.dll
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\bin\Debug\net5.0\Dungeon_RPG.pdb
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\obj\Debug\net5.0\Dungeon_RPG.csproj.AssemblyReference.cache
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\obj\Debug\net5.0\Dungeon_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\obj\Debug\net5.0\Dungeon_RPG.AssemblyInfoInputs.cache
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\obj\Debug\net5.0\Dungeon_RPG.AssemblyInfo.cs
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\obj\Debug\net5.0\Dungeon_RPG.csproj.CoreCompileInputs.cache
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\obj\Debug\net5.0\Dungeon_RPG.dll
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\obj\Debug\net5.0\ref\Dungeon_RPG.dll
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\obj\Debug\net5.0\Dungeon_RPG.pdb
+C:\Users\titac\Desktop\DIO\workspace\POORpgDIO\Dungeon_RPG\Dungeon_RPG\obj\Debug\net5.0\Dungeon_RPG.genruntimeconfig.cache
